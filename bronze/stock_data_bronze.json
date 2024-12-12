@@ -1,0 +1,29 @@
+{
+    "meta": {
+        "requested": 1,
+        "returned": 1
+    },
+    "data": [
+        {
+            "ticker": "GOOGL",
+            "name": "Alphabet Inc Class A",
+            "exchange_short": null,
+            "exchange_long": null,
+            "mic_code": "IEXG",
+            "currency": "USD",
+            "price": 175.43,
+            "day_high": 176.27,
+            "day_low": 173.65,
+            "day_open": 174.1,
+            "52_week_high": 129.04,
+            "52_week_low": 83.34,
+            "market_cap": null,
+            "previous_close_price": 174.66,
+            "previous_close_price_time": "2024-12-06T15:59:59.000000",
+            "day_change": 0.44,
+            "volume": 690232,
+            "is_extended_hours_price": false,
+            "last_trade_time": "2024-12-09T15:59:59.000000"
+        }
+    ]
+}
