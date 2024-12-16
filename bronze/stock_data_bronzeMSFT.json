@@ -1,0 +1,837 @@
+{
+    "meta": {
+        "date_from": "2024-12-03",
+        "date_to": "2024-12-16",
+        "max_period_days": 180
+    },
+    "data": [
+        {
+            "date": "2024-12-13T15:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 447.23,
+                "high": 448.23,
+                "low": 446.92,
+                "close": 447.33,
+                "volume": 62050,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T14:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 447.72,
+                "high": 447.88,
+                "low": 447.01,
+                "close": 447.2,
+                "volume": 20301,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T13:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 445.81,
+                "high": 447.96,
+                "low": 445.63,
+                "close": 447.63,
+                "volume": 51612,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T12:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 446.96,
+                "high": 447.07,
+                "low": 445.78,
+                "close": 445.78,
+                "volume": 56545,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T11:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 447.85,
+                "high": 448.59,
+                "low": 446.4,
+                "close": 446.98,
+                "volume": 60198,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T10:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 449.8,
+                "high": 450.12,
+                "low": 447.31,
+                "close": 447.85,
+                "volume": 87801,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T09:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 448.25,
+                "high": 451.46,
+                "low": 448,
+                "close": 449.74,
+                "volume": 61214,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T15:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 451.79,
+                "high": 452.14,
+                "low": 449.15,
+                "close": 449.61,
+                "volume": 116365,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T14:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 453.16,
+                "high": 453.55,
+                "low": 451.78,
+                "close": 451.84,
+                "volume": 27436,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T13:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 454.41,
+                "high": 454.7,
+                "low": 453.07,
+                "close": 453.16,
+                "volume": 34041,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T12:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 453.38,
+                "high": 455.22,
+                "low": 453.35,
+                "close": 454.45,
+                "volume": 34958,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T11:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 455.46,
+                "high": 456.15,
+                "low": 452.88,
+                "close": 453.41,
+                "volume": 78541,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T10:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 452.21,
+                "high": 455.73,
+                "low": 450.55,
+                "close": 455.3,
+                "volume": 119341,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T09:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 449.75,
+                "high": 453.54,
+                "low": 449.24,
+                "close": 452.12,
+                "volume": 65656,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T16:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 448.87,
+                "high": 448.88,
+                "low": 448.87,
+                "close": 448.87,
+                "volume": 291,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T15:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 448.48,
+                "high": 449.71,
+                "low": 448.48,
+                "close": 448.97,
+                "volume": 68668,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T14:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 449.26,
+                "high": 449.57,
+                "low": 447.88,
+                "close": 448.44,
+                "volume": 22342,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T13:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 449.44,
+                "high": 449.89,
+                "low": 448.7,
+                "close": 449.26,
+                "volume": 29011,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T12:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 449.3,
+                "high": 449.97,
+                "low": 449.01,
+                "close": 449.42,
+                "volume": 38152,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T11:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 448.52,
+                "high": 450.35,
+                "low": 448.4,
+                "close": 449.28,
+                "volume": 52522,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T10:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 446.07,
+                "high": 449.37,
+                "low": 445.47,
+                "close": 448.31,
+                "volume": 69265,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T09:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 444.15,
+                "high": 446.35,
+                "low": 444.05,
+                "close": 446.13,
+                "volume": 42875,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T16:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 443.17,
+                "high": 443.17,
+                "low": 443.17,
+                "close": 443.17,
+                "volume": 300,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T15:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 442.58,
+                "high": 443.57,
+                "low": 441.72,
+                "close": 443.43,
+                "volume": 95439,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T14:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 444.69,
+                "high": 444.77,
+                "low": 441.6,
+                "close": 442.48,
+                "volume": 76798,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T13:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 445.85,
+                "high": 446.05,
+                "low": 444.2,
+                "close": 444.69,
+                "volume": 35903,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T12:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 446.35,
+                "high": 447.62,
+                "low": 445.56,
+                "close": 445.87,
+                "volume": 28130,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T11:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 447.96,
+                "high": 447.98,
+                "low": 445.58,
+                "close": 446.36,
+                "volume": 69816,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T10:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 448.18,
+                "high": 449.61,
+                "low": 447.5,
+                "close": 447.98,
+                "volume": 66098,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T09:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 444.11,
+                "high": 448.35,
+                "low": 444.05,
+                "close": 448.21,
+                "volume": 67369,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T16:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 445.83,
+                "high": 446,
+                "low": 445.83,
+                "close": 445.83,
+                "volume": 128,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T15:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 446.06,
+                "high": 446.48,
+                "low": 444.93,
+                "close": 446.06,
+                "volume": 103405,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T14:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 446.56,
+                "high": 446.56,
+                "low": 445.11,
+                "close": 446.06,
+                "volume": 47214,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T13:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 446.34,
+                "high": 447.2,
+                "low": 445.78,
+                "close": 446.62,
+                "volume": 27826,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T12:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 446.68,
+                "high": 447.56,
+                "low": 446.19,
+                "close": 446.37,
+                "volume": 33613,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T11:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 445.07,
+                "high": 448.33,
+                "low": 444.95,
+                "close": 446.76,
+                "volume": 53916,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T10:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 442.25,
+                "high": 446.83,
+                "low": 441.92,
+                "close": 445.1,
+                "volume": 97373,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T09:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 442.69,
+                "high": 445.05,
+                "low": 440.46,
+                "close": 442.25,
+                "volume": 60449,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T16:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 443.52,
+                "high": 443.79,
+                "low": 443.52,
+                "close": 443.52,
+                "volume": 184,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T15:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 443.77,
+                "high": 444.77,
+                "low": 443.33,
+                "close": 443.43,
+                "volume": 83191,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T14:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 443.55,
+                "high": 444.08,
+                "low": 442.97,
+                "close": 443.77,
+                "volume": 24831,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T13:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 442.42,
+                "high": 443.84,
+                "low": 442.26,
+                "close": 443.55,
+                "volume": 48857,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T12:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 442.71,
+                "high": 443.69,
+                "low": 441.83,
+                "close": 442.41,
+                "volume": 38877,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T11:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 443.39,
+                "high": 444.65,
+                "low": 442.68,
+                "close": 442.81,
+                "volume": 43216,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T10:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 445.35,
+                "high": 445.59,
+                "low": 442.88,
+                "close": 443.33,
+                "volume": 49918,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T09:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 442.3,
+                "high": 446.06,
+                "low": 442.03,
+                "close": 445.39,
+                "volume": 47929,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T16:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 442.78,
+                "high": 442.78,
+                "low": 442.78,
+                "close": 442.78,
+                "volume": 31,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T15:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 442.96,
+                "high": 443.75,
+                "low": 442.02,
+                "close": 442.74,
+                "volume": 100795,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T14:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 442.92,
+                "high": 443.53,
+                "low": 442.39,
+                "close": 443.04,
+                "volume": 54949,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T13:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 443.92,
+                "high": 444.66,
+                "low": 442.77,
+                "close": 442.92,
+                "volume": 51788,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T12:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 441.37,
+                "high": 444.06,
+                "low": 441.18,
+                "close": 443.93,
+                "volume": 67321,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T11:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 438.69,
+                "high": 441.5,
+                "low": 438.33,
+                "close": 441.38,
+                "volume": 72570,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T10:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 437.1,
+                "high": 439.19,
+                "low": 436.27,
+                "close": 438.7,
+                "volume": 57539,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T09:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 438.37,
+                "high": 439.89,
+                "low": 436.35,
+                "close": 437.08,
+                "volume": 77692,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T15:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 438.11,
+                "high": 438.61,
+                "low": 436.85,
+                "close": 437.47,
+                "volume": 115786,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T14:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 436.81,
+                "high": 438.26,
+                "low": 436.7,
+                "close": 438.12,
+                "volume": 64310,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T13:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 437.06,
+                "high": 437.69,
+                "low": 436.18,
+                "close": 437.24,
+                "volume": 34216,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T12:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 436.97,
+                "high": 437.7,
+                "low": 436.34,
+                "close": 437.14,
+                "volume": 40856,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T11:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 439.07,
+                "high": 439.64,
+                "low": 436.42,
+                "close": 436.98,
+                "volume": 62244,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T10:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 437.94,
+                "high": 439.04,
+                "low": 436.05,
+                "close": 439.04,
+                "volume": 113572,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T09:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 432.83,
+                "high": 439.52,
+                "low": 432.73,
+                "close": 437.81,
+                "volume": 110373,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T16:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 431.16,
+                "high": 431.24,
+                "low": 431.14,
+                "close": 431.16,
+                "volume": 414,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T15:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 430.18,
+                "high": 431.43,
+                "low": 430.05,
+                "close": 431.21,
+                "volume": 95747,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T14:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 430.08,
+                "high": 430.5,
+                "low": 427.91,
+                "close": 430.17,
+                "volume": 71330,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T13:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 430.34,
+                "high": 430.63,
+                "low": 429.6,
+                "close": 430.11,
+                "volume": 56772,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T12:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 430.64,
+                "high": 430.85,
+                "low": 429.62,
+                "close": 430.34,
+                "volume": 77805,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T11:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 430.72,
+                "high": 431.92,
+                "low": 430.15,
+                "close": 430.55,
+                "volume": 51313,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T10:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 431.28,
+                "high": 432.42,
+                "low": 429.53,
+                "close": 430.66,
+                "volume": 101127,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T09:00:00.000Z",
+            "ticker": "MSFT",
+            "data": {
+                "open": 429.89,
+                "high": 431.2,
+                "low": 428.69,
+                "close": 431.2,
+                "volume": 31510,
+                "is_extended_hours": false
+            }
+        }
+    ]
+}

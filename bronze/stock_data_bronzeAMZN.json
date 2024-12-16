@@ -1,0 +1,789 @@
+{
+    "meta": {
+        "date_from": "2024-12-03",
+        "date_to": "2024-12-16",
+        "max_period_days": 180
+    },
+    "data": [
+        {
+            "date": "2024-12-13T15:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 228.47,
+                "high": 228.53,
+                "low": 227,
+                "close": 227.44,
+                "volume": 122283,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T14:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 228.12,
+                "high": 228.65,
+                "low": 227.69,
+                "close": 228.45,
+                "volume": 54899,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T13:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 227.34,
+                "high": 228.39,
+                "low": 227.19,
+                "close": 228.06,
+                "volume": 38633,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T12:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 227.17,
+                "high": 227.98,
+                "low": 226.98,
+                "close": 227.36,
+                "volume": 50101,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T11:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 226.23,
+                "high": 227.72,
+                "low": 225.9,
+                "close": 227.22,
+                "volume": 118706,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T10:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 229.48,
+                "high": 229.63,
+                "low": 226.13,
+                "close": 226.23,
+                "volume": 143663,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T09:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 228.47,
+                "high": 230.15,
+                "low": 228.29,
+                "close": 229.48,
+                "volume": 130656,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T15:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 228.72,
+                "high": 229.18,
+                "low": 228.48,
+                "close": 229.03,
+                "volume": 115586,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T14:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 229.51,
+                "high": 229.74,
+                "low": 228.6,
+                "close": 228.69,
+                "volume": 51818,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T13:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 230.24,
+                "high": 230.34,
+                "low": 229.54,
+                "close": 229.55,
+                "volume": 46449,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T12:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 229.84,
+                "high": 230.48,
+                "low": 229.53,
+                "close": 230.24,
+                "volume": 71633,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T11:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 230.43,
+                "high": 231.07,
+                "low": 229.29,
+                "close": 229.79,
+                "volume": 97899,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T10:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 228.75,
+                "high": 230.82,
+                "low": 228.08,
+                "close": 230.45,
+                "volume": 167628,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T09:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 229.53,
+                "high": 230.26,
+                "low": 227.64,
+                "close": 228.78,
+                "volume": 193023,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T16:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 230.23,
+                "high": 230.23,
+                "low": 230.16,
+                "close": 230.23,
+                "volume": 400,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T15:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 229.5,
+                "high": 230.42,
+                "low": 229.49,
+                "close": 230.21,
+                "volume": 199910,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T14:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 230.15,
+                "high": 230.43,
+                "low": 229.42,
+                "close": 229.53,
+                "volume": 126627,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T13:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 230.65,
+                "high": 230.66,
+                "low": 229.84,
+                "close": 230.12,
+                "volume": 93534,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T12:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 230.24,
+                "high": 230.91,
+                "low": 229.92,
+                "close": 230.58,
+                "volume": 123971,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T11:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 230.29,
+                "high": 230.63,
+                "low": 229.34,
+                "close": 230.24,
+                "volume": 178771,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T10:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 229.26,
+                "high": 231.2,
+                "low": 229.17,
+                "close": 230.38,
+                "volume": 206746,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T09:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 226.43,
+                "high": 229.7,
+                "low": 226.29,
+                "close": 229.26,
+                "volume": 183900,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T16:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 225.13,
+                "high": 225.16,
+                "low": 225.1,
+                "close": 225.13,
+                "volume": 1015,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T15:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 224.82,
+                "high": 225.42,
+                "low": 224.21,
+                "close": 225.14,
+                "volume": 211389,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T14:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 226.09,
+                "high": 226.14,
+                "low": 224.51,
+                "close": 224.84,
+                "volume": 153610,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T13:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 226.8,
+                "high": 227.15,
+                "low": 226.06,
+                "close": 226.1,
+                "volume": 104735,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T12:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 227.77,
+                "high": 227.98,
+                "low": 226.52,
+                "close": 226.78,
+                "volume": 59986,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T11:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 227.94,
+                "high": 228.12,
+                "low": 226.68,
+                "close": 227.8,
+                "volume": 127451,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T10:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 227.45,
+                "high": 229.05,
+                "low": 227.25,
+                "close": 227.91,
+                "volume": 152799,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T09:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 226.26,
+                "high": 227.98,
+                "low": 225.4,
+                "close": 227.53,
+                "volume": 160088,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T15:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 228.04,
+                "high": 228.04,
+                "low": 225.68,
+                "close": 226.15,
+                "volume": 220985,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T14:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 229.41,
+                "high": 229.41,
+                "low": 227.71,
+                "close": 228.02,
+                "volume": 115379,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T13:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 229.26,
+                "high": 229.62,
+                "low": 228.68,
+                "close": 229.39,
+                "volume": 100023,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T12:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 229.32,
+                "high": 230.08,
+                "low": 228.59,
+                "close": 229.27,
+                "volume": 332118,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T11:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 227.04,
+                "high": 229.5,
+                "low": 226.76,
+                "close": 229.36,
+                "volume": 162067,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T10:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 228.52,
+                "high": 230,
+                "low": 226.11,
+                "close": 227.13,
+                "volume": 295327,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T09:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 227.21,
+                "high": 229.75,
+                "low": 227.03,
+                "close": 228.54,
+                "volume": 265960,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T15:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 225.77,
+                "high": 227.13,
+                "low": 225.55,
+                "close": 227,
+                "volume": 332972,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T14:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 225.11,
+                "high": 225.8,
+                "low": 224.35,
+                "close": 225.79,
+                "volume": 122427,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T13:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 224.7,
+                "high": 225.2,
+                "low": 224.53,
+                "close": 225.07,
+                "volume": 114221,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T12:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 225.15,
+                "high": 225.16,
+                "low": 224.41,
+                "close": 224.72,
+                "volume": 107676,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T11:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 224.6,
+                "high": 225.55,
+                "low": 224.3,
+                "close": 225.16,
+                "volume": 172869,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T10:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 223.77,
+                "high": 224.93,
+                "low": 223.43,
+                "close": 224.58,
+                "volume": 216896,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T09:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 220.82,
+                "high": 224.36,
+                "low": 220.61,
+                "close": 223.72,
+                "volume": 264869,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T15:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 220.98,
+                "high": 222.01,
+                "low": 219.79,
+                "close": 220.57,
+                "volume": 330317,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T14:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 220.55,
+                "high": 221.27,
+                "low": 220.28,
+                "close": 221.02,
+                "volume": 90875,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T13:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 221.51,
+                "high": 222.14,
+                "low": 220.49,
+                "close": 220.53,
+                "volume": 202576,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T12:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 220.1,
+                "high": 221.89,
+                "low": 219.8,
+                "close": 221.54,
+                "volume": 177093,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T11:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 218.89,
+                "high": 220.19,
+                "low": 218.47,
+                "close": 220.09,
+                "volume": 160308,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T10:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 218.28,
+                "high": 219.83,
+                "low": 217.88,
+                "close": 218.89,
+                "volume": 200671,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T09:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 218.18,
+                "high": 218.66,
+                "low": 217.33,
+                "close": 218.29,
+                "volume": 283737,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T15:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 217.71,
+                "high": 219,
+                "low": 217.62,
+                "close": 218.09,
+                "volume": 218114,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T14:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 217.35,
+                "high": 218.09,
+                "low": 217.35,
+                "close": 217.67,
+                "volume": 91082,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T13:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 217.93,
+                "high": 217.93,
+                "low": 217.3,
+                "close": 217.47,
+                "volume": 99717,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T12:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 218.2,
+                "high": 218.85,
+                "low": 217.81,
+                "close": 217.92,
+                "volume": 127047,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T11:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 219.7,
+                "high": 219.92,
+                "low": 217.57,
+                "close": 218.2,
+                "volume": 200484,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T10:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 218.26,
+                "high": 219.99,
+                "low": 218,
+                "close": 219.7,
+                "volume": 358046,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T09:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 215.96,
+                "high": 218.73,
+                "low": 215.73,
+                "close": 218.33,
+                "volume": 212942,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T15:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 212.9,
+                "high": 213.5,
+                "low": 212.36,
+                "close": 213.44,
+                "volume": 147109,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T14:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 212.84,
+                "high": 213.17,
+                "low": 212.66,
+                "close": 212.88,
+                "volume": 59181,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T13:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 213.74,
+                "high": 214.02,
+                "low": 212.69,
+                "close": 212.87,
+                "volume": 128668,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T12:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 212.12,
+                "high": 213.74,
+                "low": 211.49,
+                "close": 213.71,
+                "volume": 106615,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T11:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 212.27,
+                "high": 213.28,
+                "low": 211.85,
+                "close": 212.12,
+                "volume": 104093,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T10:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 211.28,
+                "high": 212.32,
+                "low": 211.18,
+                "close": 212.27,
+                "volume": 135904,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T09:00:00.000Z",
+            "ticker": "AMZN",
+            "data": {
+                "open": 210.33,
+                "high": 211.49,
+                "low": 209.68,
+                "close": 211.29,
+                "volume": 113326,
+                "is_extended_hours": false
+            }
+        }
+    ]
+}

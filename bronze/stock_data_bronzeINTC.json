@@ -1,0 +1,789 @@
+{
+    "meta": {
+        "date_from": "2024-12-03",
+        "date_to": "2024-12-16",
+        "max_period_days": 180
+    },
+    "data": [
+        {
+            "date": "2024-12-13T16:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.34,
+                "high": 20.34,
+                "low": 20.34,
+                "close": 20.34,
+                "volume": 905,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T15:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.36,
+                "high": 20.39,
+                "low": 20.25,
+                "close": 20.34,
+                "volume": 462667,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T14:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.3,
+                "high": 20.36,
+                "low": 20.27,
+                "close": 20.35,
+                "volume": 88107,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T13:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.33,
+                "high": 20.42,
+                "low": 20.3,
+                "close": 20.31,
+                "volume": 90716,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T12:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.36,
+                "high": 20.4,
+                "low": 20.25,
+                "close": 20.34,
+                "volume": 84343,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T11:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.32,
+                "high": 20.45,
+                "low": 20.32,
+                "close": 20.37,
+                "volume": 102195,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T10:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.69,
+                "high": 20.71,
+                "low": 20.31,
+                "close": 20.33,
+                "volume": 323011,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T09:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.61,
+                "high": 20.8,
+                "low": 20.41,
+                "close": 20.68,
+                "volume": 138170,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T16:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.79,
+                "high": 20.79,
+                "low": 20.79,
+                "close": 20.79,
+                "volume": 3103,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T15:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.69,
+                "high": 20.9,
+                "low": 20.66,
+                "close": 20.78,
+                "volume": 806088,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T14:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.63,
+                "high": 20.8,
+                "low": 20.63,
+                "close": 20.68,
+                "volume": 226652,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T13:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.66,
+                "high": 20.73,
+                "low": 20.57,
+                "close": 20.63,
+                "volume": 213026,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T12:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.42,
+                "high": 20.71,
+                "low": 20.34,
+                "close": 20.66,
+                "volume": 258543,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T11:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.72,
+                "high": 20.75,
+                "low": 20.39,
+                "close": 20.41,
+                "volume": 282913,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T10:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.28,
+                "high": 20.77,
+                "low": 20.28,
+                "close": 20.72,
+                "volume": 334872,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T09:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 19.98,
+                "high": 20.42,
+                "low": 19.92,
+                "close": 20.28,
+                "volume": 294900,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T15:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.12,
+                "high": 20.24,
+                "low": 20.09,
+                "close": 20.1,
+                "volume": 1082293,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T14:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.14,
+                "high": 20.19,
+                "low": 20.11,
+                "close": 20.11,
+                "volume": 480491,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T13:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.01,
+                "high": 20.25,
+                "low": 20.01,
+                "close": 20.14,
+                "volume": 513249,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T12:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.01,
+                "high": 20.08,
+                "low": 19.95,
+                "close": 20.01,
+                "volume": 618108,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T11:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 19.93,
+                "high": 20.1,
+                "low": 19.9,
+                "close": 20.02,
+                "volume": 508240,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T10:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.03,
+                "high": 20.07,
+                "low": 19.88,
+                "close": 19.95,
+                "volume": 513279,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T09:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.13,
+                "high": 20.23,
+                "low": 19.95,
+                "close": 20.02,
+                "volume": 559822,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T15:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.22,
+                "high": 20.24,
+                "low": 19.97,
+                "close": 20.17,
+                "volume": 797738,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T14:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.18,
+                "high": 20.23,
+                "low": 20.07,
+                "close": 20.19,
+                "volume": 458891,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T13:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.25,
+                "high": 20.36,
+                "low": 20.16,
+                "close": 20.18,
+                "volume": 374843,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T12:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.19,
+                "high": 20.28,
+                "low": 20.16,
+                "close": 20.25,
+                "volume": 355415,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T11:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.31,
+                "high": 20.36,
+                "low": 20.16,
+                "close": 20.19,
+                "volume": 367610,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T10:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.33,
+                "high": 20.45,
+                "low": 20.23,
+                "close": 20.3,
+                "volume": 489567,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T09:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.82,
+                "high": 20.85,
+                "low": 20.2,
+                "close": 20.33,
+                "volume": 287385,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T15:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.82,
+                "high": 20.87,
+                "low": 20.75,
+                "close": 20.82,
+                "volume": 542503,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T14:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.92,
+                "high": 20.93,
+                "low": 20.82,
+                "close": 20.83,
+                "volume": 200653,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T13:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.94,
+                "high": 20.97,
+                "low": 20.86,
+                "close": 20.93,
+                "volume": 241688,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T12:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.91,
+                "high": 20.95,
+                "low": 20.86,
+                "close": 20.95,
+                "volume": 305108,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T11:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.92,
+                "high": 21,
+                "low": 20.74,
+                "close": 20.91,
+                "volume": 368940,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T10:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.9,
+                "high": 21.06,
+                "low": 20.89,
+                "close": 20.91,
+                "volume": 556348,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T09:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.92,
+                "high": 21.03,
+                "low": 20.74,
+                "close": 20.89,
+                "volume": 256666,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T15:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.84,
+                "high": 20.94,
+                "low": 20.74,
+                "close": 20.92,
+                "volume": 732839,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T14:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.84,
+                "high": 20.88,
+                "low": 20.81,
+                "close": 20.83,
+                "volume": 179246,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T13:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.85,
+                "high": 21.02,
+                "low": 20.83,
+                "close": 20.84,
+                "volume": 228988,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T12:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.92,
+                "high": 20.96,
+                "low": 20.83,
+                "close": 20.85,
+                "volume": 211127,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T11:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.93,
+                "high": 21.01,
+                "low": 20.78,
+                "close": 20.94,
+                "volume": 470248,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T10:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.86,
+                "high": 20.99,
+                "low": 20.66,
+                "close": 20.93,
+                "volume": 859319,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T09:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.94,
+                "high": 21.04,
+                "low": 20.84,
+                "close": 20.86,
+                "volume": 489146,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T15:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.85,
+                "high": 20.96,
+                "low": 20.77,
+                "close": 20.8,
+                "volume": 785928,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T14:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.83,
+                "high": 20.93,
+                "low": 20.74,
+                "close": 20.87,
+                "volume": 387292,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T13:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.92,
+                "high": 21,
+                "low": 20.78,
+                "close": 20.83,
+                "volume": 373366,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T12:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 20.91,
+                "high": 21.11,
+                "low": 20.85,
+                "close": 20.92,
+                "volume": 407283,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T11:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 21.15,
+                "high": 21.22,
+                "low": 20.89,
+                "close": 20.91,
+                "volume": 687320,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T10:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 21.41,
+                "high": 21.46,
+                "low": 20.67,
+                "close": 21.15,
+                "volume": 1869177,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T09:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 22.05,
+                "high": 22.19,
+                "low": 21.41,
+                "close": 21.42,
+                "volume": 430764,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T15:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 22.08,
+                "high": 22.17,
+                "low": 21.92,
+                "close": 21.95,
+                "volume": 1222787,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T14:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 22.02,
+                "high": 22.13,
+                "low": 22.01,
+                "close": 22.09,
+                "volume": 333726,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T13:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 21.92,
+                "high": 22.11,
+                "low": 21.91,
+                "close": 22.05,
+                "volume": 690906,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T12:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 21.98,
+                "high": 22,
+                "low": 21.82,
+                "close": 21.92,
+                "volume": 342166,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T11:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 21.95,
+                "high": 22.11,
+                "low": 21.95,
+                "close": 21.98,
+                "volume": 573941,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T10:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 22.09,
+                "high": 22.27,
+                "low": 21.95,
+                "close": 21.96,
+                "volume": 807060,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T09:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 22.51,
+                "high": 22.52,
+                "low": 21.97,
+                "close": 22.11,
+                "volume": 463751,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T15:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 22.65,
+                "high": 22.66,
+                "low": 22.44,
+                "close": 22.48,
+                "volume": 791368,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T14:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 22.58,
+                "high": 22.68,
+                "low": 22.55,
+                "close": 22.65,
+                "volume": 457762,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T13:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 22.66,
+                "high": 22.85,
+                "low": 22.45,
+                "close": 22.58,
+                "volume": 380617,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T12:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 22.58,
+                "high": 22.72,
+                "low": 22.48,
+                "close": 22.67,
+                "volume": 350429,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T11:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 22.93,
+                "high": 22.98,
+                "low": 22.56,
+                "close": 22.59,
+                "volume": 483114,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T10:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 23.16,
+                "high": 23.2,
+                "low": 22.79,
+                "close": 22.93,
+                "volume": 430456,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T09:00:00.000Z",
+            "ticker": "INTC",
+            "data": {
+                "open": 23.68,
+                "high": 23.74,
+                "low": 22.95,
+                "close": 23.18,
+                "volume": 405987,
+                "is_extended_hours": false
+            }
+        }
+    ]
+}

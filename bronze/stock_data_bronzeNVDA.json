@@ -1,0 +1,837 @@
+{
+    "meta": {
+        "date_from": "2024-12-03",
+        "date_to": "2024-12-16",
+        "max_period_days": 180
+    },
+    "data": [
+        {
+            "date": "2024-12-13T16:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 134.2,
+                "high": 134.2,
+                "low": 134.2,
+                "close": 134.2,
+                "volume": 16,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T15:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 133.71,
+                "high": 134.3,
+                "low": 133.7,
+                "close": 134.18,
+                "volume": 489165,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T14:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 134.32,
+                "high": 134.9,
+                "low": 133.65,
+                "close": 133.7,
+                "volume": 295443,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T13:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 133.53,
+                "high": 134.62,
+                "low": 133.51,
+                "close": 134.32,
+                "volume": 235772,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T12:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 133.5,
+                "high": 134.15,
+                "low": 132.85,
+                "close": 133.53,
+                "volume": 607760,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T11:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 134.17,
+                "high": 134.26,
+                "low": 132.55,
+                "close": 133.52,
+                "volume": 866849,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T10:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 138.87,
+                "high": 139.1,
+                "low": 134.03,
+                "close": 134.13,
+                "volume": 808500,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T09:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 139,
+                "high": 139.55,
+                "low": 137.49,
+                "close": 138.86,
+                "volume": 405947,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T15:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 138.03,
+                "high": 138.05,
+                "low": 137,
+                "close": 137.38,
+                "volume": 273070,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T14:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 137.49,
+                "high": 138.12,
+                "low": 137.38,
+                "close": 138.05,
+                "volume": 203330,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T13:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 137.87,
+                "high": 138.4,
+                "low": 137.34,
+                "close": 137.47,
+                "volume": 201851,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T12:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 136.23,
+                "high": 138,
+                "low": 136.16,
+                "close": 137.92,
+                "volume": 201401,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T11:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 137.07,
+                "high": 137.38,
+                "low": 136.1,
+                "close": 136.24,
+                "volume": 162073,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T10:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 136.9,
+                "high": 137.53,
+                "low": 135.8,
+                "close": 137.09,
+                "volume": 263611,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T09:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 137.12,
+                "high": 137.54,
+                "low": 135.89,
+                "close": 136.94,
+                "volume": 253875,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T16:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 139.28,
+                "high": 139.29,
+                "low": 139.26,
+                "close": 139.28,
+                "volume": 1226,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T15:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 139.75,
+                "high": 140.16,
+                "low": 138.95,
+                "close": 139.29,
+                "volume": 356606,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T14:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 139.73,
+                "high": 140.13,
+                "low": 139.29,
+                "close": 139.73,
+                "volume": 187222,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T13:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 138.84,
+                "high": 139.76,
+                "low": 138.66,
+                "close": 139.75,
+                "volume": 205308,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T12:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 138.34,
+                "high": 139.03,
+                "low": 138.08,
+                "close": 138.87,
+                "volume": 199167,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T11:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 135.94,
+                "high": 138.33,
+                "low": 135.89,
+                "close": 138.33,
+                "volume": 172352,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T10:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 137.73,
+                "high": 137.76,
+                "low": 135.44,
+                "close": 135.95,
+                "volume": 273452,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T09:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 137.39,
+                "high": 138.03,
+                "low": 135.22,
+                "close": 137.69,
+                "volume": 224354,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T15:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 134.73,
+                "high": 135.37,
+                "low": 133.79,
+                "close": 134.97,
+                "volume": 478518,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T14:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 135.71,
+                "high": 136.15,
+                "low": 134.7,
+                "close": 134.71,
+                "volume": 242075,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T13:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 136.46,
+                "high": 136.64,
+                "low": 135.67,
+                "close": 135.71,
+                "volume": 165819,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T12:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 136.98,
+                "high": 136.99,
+                "low": 135.76,
+                "close": 136.48,
+                "volume": 209858,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T11:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 138.15,
+                "high": 138.26,
+                "low": 136.19,
+                "close": 136.99,
+                "volume": 389476,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T10:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 140.92,
+                "high": 141.27,
+                "low": 138.1,
+                "close": 138.16,
+                "volume": 283690,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T09:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 138.97,
+                "high": 141.77,
+                "low": 138.81,
+                "close": 140.97,
+                "volume": 240822,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T16:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 138.83,
+                "high": 138.87,
+                "low": 138.81,
+                "close": 138.83,
+                "volume": 800,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T15:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 138.44,
+                "high": 139.13,
+                "low": 138.14,
+                "close": 138.9,
+                "volume": 339746,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T14:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 139.11,
+                "high": 139.15,
+                "low": 138.05,
+                "close": 138.44,
+                "volume": 219918,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T13:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 139.34,
+                "high": 139.84,
+                "low": 139.07,
+                "close": 139.11,
+                "volume": 180109,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T12:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 138.3,
+                "high": 139.72,
+                "low": 138.23,
+                "close": 139.35,
+                "volume": 225196,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T11:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 137.84,
+                "high": 138.49,
+                "low": 137.16,
+                "close": 138.39,
+                "volume": 405947,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T10:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 139.64,
+                "high": 139.92,
+                "low": 137.61,
+                "close": 137.83,
+                "volume": 417837,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T09:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 138.97,
+                "high": 139.94,
+                "low": 137.45,
+                "close": 139.73,
+                "volume": 668084,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T16:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 142.42,
+                "high": 142.47,
+                "low": 142.42,
+                "close": 142.42,
+                "volume": 400,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T15:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 142.27,
+                "high": 142.5,
+                "low": 141.8,
+                "close": 142.35,
+                "volume": 438403,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T14:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 142.61,
+                "high": 142.7,
+                "low": 142.19,
+                "close": 142.28,
+                "volume": 154572,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T13:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 142.42,
+                "high": 142.9,
+                "low": 142.3,
+                "close": 142.62,
+                "volume": 154491,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T12:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 142.01,
+                "high": 143.23,
+                "low": 141.94,
+                "close": 142.43,
+                "volume": 320460,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T11:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 143.76,
+                "high": 143.8,
+                "low": 141.32,
+                "close": 142.03,
+                "volume": 438287,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T10:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 145.51,
+                "high": 145.7,
+                "low": 143.45,
+                "close": 143.74,
+                "volume": 478745,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T09:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 144.63,
+                "high": 145.65,
+                "low": 144.19,
+                "close": 145.49,
+                "volume": 438523,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T15:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 145.15,
+                "high": 145.5,
+                "low": 144.88,
+                "close": 145.09,
+                "volume": 486104,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T14:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 144.52,
+                "high": 145.25,
+                "low": 144.36,
+                "close": 145.19,
+                "volume": 120277,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T13:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 145.94,
+                "high": 146,
+                "low": 144.31,
+                "close": 144.53,
+                "volume": 213500,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T12:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 146.1,
+                "high": 146.35,
+                "low": 145.76,
+                "close": 145.96,
+                "volume": 196658,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T11:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 145.34,
+                "high": 146.53,
+                "low": 145.27,
+                "close": 146.1,
+                "volume": 260823,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T10:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 144.68,
+                "high": 145.45,
+                "low": 143.96,
+                "close": 145.33,
+                "volume": 332580,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T09:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 145.1,
+                "high": 146.06,
+                "low": 144.19,
+                "close": 144.64,
+                "volume": 367430,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T16:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 145.11,
+                "high": 145.13,
+                "low": 145.11,
+                "close": 145.11,
+                "volume": 500,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T15:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 145.53,
+                "high": 145.68,
+                "low": 144.58,
+                "close": 145.05,
+                "volume": 633881,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T14:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 144.29,
+                "high": 145.78,
+                "low": 144.22,
+                "close": 145.54,
+                "volume": 694173,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T13:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 144.32,
+                "high": 144.62,
+                "low": 143.76,
+                "close": 144.4,
+                "volume": 329225,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T12:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 143.61,
+                "high": 144.59,
+                "low": 143.61,
+                "close": 144.35,
+                "volume": 437423,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T11:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 141.97,
+                "high": 143.66,
+                "low": 141.85,
+                "close": 143.61,
+                "volume": 429508,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T10:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 140.58,
+                "high": 142.36,
+                "low": 140.29,
+                "close": 142,
+                "volume": 426656,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T09:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 142.08,
+                "high": 142.63,
+                "low": 140.4,
+                "close": 140.64,
+                "volume": 285203,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T16:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 140.19,
+                "high": 140.25,
+                "low": 140.19,
+                "close": 140.19,
+                "volume": 1286,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T15:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 139.81,
+                "high": 140.28,
+                "low": 139.72,
+                "close": 140.23,
+                "volume": 481995,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T14:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 139.21,
+                "high": 139.86,
+                "low": 139.08,
+                "close": 139.83,
+                "volume": 120546,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T13:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 139.1,
+                "high": 139.44,
+                "low": 138.92,
+                "close": 139.22,
+                "volume": 124937,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T12:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 138.69,
+                "high": 139.15,
+                "low": 138.5,
+                "close": 139.09,
+                "volume": 120772,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T11:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 138.75,
+                "high": 139.44,
+                "low": 138.57,
+                "close": 138.68,
+                "volume": 219987,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T10:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 139.49,
+                "high": 139.52,
+                "low": 138.1,
+                "close": 138.74,
+                "volume": 328958,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T09:00:00.000Z",
+            "ticker": "NVDA",
+            "data": {
+                "open": 138.31,
+                "high": 140.54,
+                "low": 137.95,
+                "close": 139.48,
+                "volume": 267519,
+                "is_extended_hours": false
+            }
+        }
+    ]
+}

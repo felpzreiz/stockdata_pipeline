@@ -1,0 +1,825 @@
+{
+    "meta": {
+        "date_from": "2024-12-03",
+        "date_to": "2024-12-16",
+        "max_period_days": 180
+    },
+    "data": [
+        {
+            "date": "2024-12-13T15:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 620.08,
+                "high": 621.86,
+                "low": 618.36,
+                "close": 620.31,
+                "volume": 31350,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T14:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 618.76,
+                "high": 620.99,
+                "low": 617.99,
+                "close": 620.06,
+                "volume": 16774,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T13:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 617.91,
+                "high": 618.68,
+                "low": 617,
+                "close": 618.62,
+                "volume": 13475,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T12:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 619.07,
+                "high": 619.9,
+                "low": 617.3,
+                "close": 617.78,
+                "volume": 13784,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T11:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 619.31,
+                "high": 621.43,
+                "low": 617.35,
+                "close": 619.17,
+                "volume": 34153,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T10:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 629.75,
+                "high": 629.75,
+                "low": 619.49,
+                "close": 619.63,
+                "volume": 37875,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T09:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 627.16,
+                "high": 631.08,
+                "low": 625.73,
+                "close": 629.26,
+                "volume": 29131,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T16:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 630.82,
+                "high": 630.82,
+                "low": 630.82,
+                "close": 630.82,
+                "volume": 2,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T15:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 630.53,
+                "high": 632.41,
+                "low": 629.48,
+                "close": 630.79,
+                "volume": 50809,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T14:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 630.43,
+                "high": 631.51,
+                "low": 628.19,
+                "close": 630.55,
+                "volume": 23353,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T13:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 633.35,
+                "high": 633.68,
+                "low": 630.07,
+                "close": 630.44,
+                "volume": 18503,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T12:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 632.38,
+                "high": 635.87,
+                "low": 632.15,
+                "close": 633.35,
+                "volume": 16832,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T11:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 634.38,
+                "high": 635.36,
+                "low": 632.44,
+                "close": 632.55,
+                "volume": 25353,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T10:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 633.37,
+                "high": 636.58,
+                "low": 631.12,
+                "close": 634.2,
+                "volume": 39947,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T09:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 631.79,
+                "high": 633.6,
+                "low": 627.51,
+                "close": 633.6,
+                "volume": 53670,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T15:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 631.88,
+                "high": 635.02,
+                "low": 631.88,
+                "close": 632.66,
+                "volume": 42345,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T14:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 633.46,
+                "high": 633.61,
+                "low": 630.87,
+                "close": 631.81,
+                "volume": 17790,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T13:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 635.48,
+                "high": 635.48,
+                "low": 633.15,
+                "close": 633.76,
+                "volume": 13128,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T12:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 633.83,
+                "high": 636.5,
+                "low": 633.58,
+                "close": 635.26,
+                "volume": 19875,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T11:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 634.38,
+                "high": 635.8,
+                "low": 632.99,
+                "close": 633.81,
+                "volume": 19907,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T10:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 634.07,
+                "high": 638.33,
+                "low": 632.49,
+                "close": 634.51,
+                "volume": 48933,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T09:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 623.99,
+                "high": 634.16,
+                "low": 621.75,
+                "close": 634.16,
+                "volume": 32097,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T16:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 619.58,
+                "high": 619.58,
+                "low": 619.53,
+                "close": 619.58,
+                "volume": 603,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T15:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 613.55,
+                "high": 620.5,
+                "low": 613.25,
+                "close": 619.47,
+                "volume": 49337,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T14:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 618.28,
+                "high": 618.91,
+                "low": 612.84,
+                "close": 613.68,
+                "volume": 17426,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T13:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 620.26,
+                "high": 620.62,
+                "low": 618.23,
+                "close": 618.49,
+                "volume": 9864,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T12:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 620.26,
+                "high": 621.67,
+                "low": 619.04,
+                "close": 620.45,
+                "volume": 18809,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T11:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 619.28,
+                "high": 620.47,
+                "low": 615.46,
+                "close": 620.34,
+                "volume": 37159,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T10:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 622.31,
+                "high": 625.4,
+                "low": 618.91,
+                "close": 619.19,
+                "volume": 40020,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T09:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 617.21,
+                "high": 623.96,
+                "low": 613,
+                "close": 622.57,
+                "volume": 26830,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T15:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 610.71,
+                "high": 613.92,
+                "low": 609.61,
+                "close": 613.91,
+                "volume": 54019,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T14:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 613.19,
+                "high": 613.63,
+                "low": 609.1,
+                "close": 610.77,
+                "volume": 29721,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T13:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 610.22,
+                "high": 613.77,
+                "low": 609.51,
+                "close": 613.27,
+                "volume": 24252,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T12:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 611.16,
+                "high": 612.81,
+                "low": 609.39,
+                "close": 610.11,
+                "volume": 59381,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T11:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 610.41,
+                "high": 611.99,
+                "low": 606.49,
+                "close": 611.36,
+                "volume": 39141,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T10:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 622.8,
+                "high": 623.09,
+                "low": 610.38,
+                "close": 610.38,
+                "volume": 48580,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T09:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 624.03,
+                "high": 626.17,
+                "low": 619.7,
+                "close": 622.81,
+                "volume": 54564,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T16:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 623.49,
+                "high": 623.5,
+                "low": 623.49,
+                "close": 623.49,
+                "volume": 200,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T15:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 623.1,
+                "high": 625.33,
+                "low": 621.42,
+                "close": 623.25,
+                "volume": 72922,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T14:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 625.69,
+                "high": 625.94,
+                "low": 622.74,
+                "close": 622.98,
+                "volume": 16790,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T13:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 624.8,
+                "high": 627.32,
+                "low": 624.76,
+                "close": 625.57,
+                "volume": 30088,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T12:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 626.1,
+                "high": 627.92,
+                "low": 624.5,
+                "close": 624.5,
+                "volume": 34185,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T11:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 620.66,
+                "high": 629.5,
+                "low": 620.66,
+                "close": 625.91,
+                "volume": 63340,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T10:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 619.08,
+                "high": 624.23,
+                "low": 616.53,
+                "close": 620.58,
+                "volume": 69338,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T09:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 610.1,
+                "high": 619.11,
+                "low": 608.85,
+                "close": 619.02,
+                "volume": 29987,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T15:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 608.58,
+                "high": 609.54,
+                "low": 607.05,
+                "close": 608.81,
+                "volume": 34606,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T14:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 608.93,
+                "high": 610.41,
+                "low": 608.27,
+                "close": 608.64,
+                "volume": 25437,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T13:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 610.2,
+                "high": 610.3,
+                "low": 607.07,
+                "close": 608.7,
+                "volume": 22047,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T12:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 611.74,
+                "high": 613.2,
+                "low": 610.1,
+                "close": 610.35,
+                "volume": 14701,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T11:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 611.11,
+                "high": 611.91,
+                "low": 610.38,
+                "close": 611.62,
+                "volume": 21428,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T10:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 612.48,
+                "high": 614.48,
+                "low": 610.39,
+                "close": 611.36,
+                "volume": 67973,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T09:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 617,
+                "high": 619.76,
+                "low": 611.5,
+                "close": 612.54,
+                "volume": 38328,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T16:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 613.57,
+                "high": 613.57,
+                "low": 613.57,
+                "close": 613.57,
+                "volume": 100,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T15:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 611.99,
+                "high": 614.89,
+                "low": 611.99,
+                "close": 613.63,
+                "volume": 73907,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T14:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 610.16,
+                "high": 612.25,
+                "low": 609.39,
+                "close": 611.96,
+                "volume": 38490,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T13:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 610.48,
+                "high": 611.32,
+                "low": 607.8,
+                "close": 610.23,
+                "volume": 30806,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T12:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 608.22,
+                "high": 610.84,
+                "low": 608.06,
+                "close": 610.48,
+                "volume": 34412,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T11:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 609.86,
+                "high": 610.47,
+                "low": 605.1,
+                "close": 608.15,
+                "volume": 58905,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T10:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 613.6,
+                "high": 617.72,
+                "low": 609.31,
+                "close": 609.5,
+                "volume": 79090,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T09:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 611.88,
+                "high": 616.29,
+                "low": 610.92,
+                "close": 613.71,
+                "volume": 64210,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T16:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 613.54,
+                "high": 613.54,
+                "low": 613.5,
+                "close": 613.54,
+                "volume": 305,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T15:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 609.38,
+                "high": 614.18,
+                "low": 609.09,
+                "close": 613.56,
+                "volume": 98924,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T14:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 607.09,
+                "high": 609.44,
+                "low": 606.94,
+                "close": 609.34,
+                "volume": 37872,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T13:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 605.45,
+                "high": 608.77,
+                "low": 605.29,
+                "close": 606.95,
+                "volume": 25545,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T12:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 604.51,
+                "high": 605.71,
+                "low": 602.73,
+                "close": 605.45,
+                "volume": 23164,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T11:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 599.97,
+                "high": 608.17,
+                "low": 599.94,
+                "close": 604.26,
+                "volume": 63058,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T10:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 593.93,
+                "high": 599.92,
+                "low": 593.93,
+                "close": 599.85,
+                "volume": 44431,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T09:00:00.000Z",
+            "ticker": "META",
+            "data": {
+                "open": 594.8,
+                "high": 596.71,
+                "low": 592.01,
+                "close": 593.86,
+                "volume": 34706,
+                "is_extended_hours": false
+            }
+        }
+    ]
+}

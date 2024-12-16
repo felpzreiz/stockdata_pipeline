@@ -1,0 +1,789 @@
+{
+    "meta": {
+        "date_from": "2024-12-03",
+        "date_to": "2024-12-16",
+        "max_period_days": 180
+    },
+    "data": [
+        {
+            "date": "2024-12-13T16:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 436.27,
+                "high": 436.27,
+                "low": 436.27,
+                "close": 436.27,
+                "volume": 1,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T15:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 432.1,
+                "high": 436.26,
+                "low": 428.99,
+                "close": 436.25,
+                "volume": 153504,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T14:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 433.85,
+                "high": 434.32,
+                "low": 431.35,
+                "close": 432.18,
+                "volume": 62805,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T13:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 427.86,
+                "high": 434.03,
+                "low": 427.54,
+                "close": 433.74,
+                "volume": 71213,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T12:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 424.89,
+                "high": 429.04,
+                "low": 424.79,
+                "close": 427.94,
+                "volume": 28773,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T11:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 423.5,
+                "high": 427.88,
+                "low": 421.59,
+                "close": 425.29,
+                "volume": 64168,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T10:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 424.41,
+                "high": 431.54,
+                "low": 423.4,
+                "close": 423.89,
+                "volume": 178668,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T09:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 420.25,
+                "high": 424.5,
+                "low": 415.76,
+                "close": 424.45,
+                "volume": 98848,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T15:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 419.24,
+                "high": 421,
+                "low": 415,
+                "close": 418.18,
+                "volume": 121172,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T14:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 420.5,
+                "high": 420.85,
+                "low": 416.64,
+                "close": 419.38,
+                "volume": 72684,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T13:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 422.29,
+                "high": 423.79,
+                "low": 419.92,
+                "close": 420.59,
+                "volume": 48349,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T12:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 422.55,
+                "high": 424.62,
+                "low": 418.64,
+                "close": 422.41,
+                "volume": 63120,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T11:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 427.99,
+                "high": 429.25,
+                "low": 421.66,
+                "close": 422.59,
+                "volume": 106860,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T10:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 421,
+                "high": 428.85,
+                "low": 419.15,
+                "close": 427.77,
+                "volume": 145602,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T09:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 424.85,
+                "high": 426.88,
+                "low": 416.87,
+                "close": 421.29,
+                "volume": 157282,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T15:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 419.93,
+                "high": 424.82,
+                "low": 418.66,
+                "close": 424.72,
+                "volume": 267461,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T14:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 416.5,
+                "high": 420.38,
+                "low": 416.39,
+                "close": 419.97,
+                "volume": 199650,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T13:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 414.59,
+                "high": 417.83,
+                "low": 414.57,
+                "close": 416.48,
+                "volume": 93643,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T12:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 412.72,
+                "high": 415.5,
+                "low": 411.6,
+                "close": 414.54,
+                "volume": 66411,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T11:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 412,
+                "high": 415,
+                "low": 410.91,
+                "close": 412.79,
+                "volume": 135736,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T10:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 404.94,
+                "high": 413.5,
+                "low": 403.38,
+                "close": 411.9,
+                "volume": 148844,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T09:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 409.61,
+                "high": 412.4,
+                "low": 402.4,
+                "close": 405.06,
+                "volume": 139175,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T16:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 401,
+                "high": 401,
+                "low": 401,
+                "close": 401,
+                "volume": 405,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T15:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 403.7,
+                "high": 404.78,
+                "low": 399.54,
+                "close": 400.99,
+                "volume": 170514,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T14:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 407.96,
+                "high": 409.64,
+                "low": 401.96,
+                "close": 403.74,
+                "volume": 109306,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T13:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 408.04,
+                "high": 409.15,
+                "low": 405.33,
+                "close": 408.1,
+                "volume": 82856,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T12:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 406.01,
+                "high": 409.04,
+                "low": 403.21,
+                "close": 407.95,
+                "volume": 71406,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T11:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 401.38,
+                "high": 406.27,
+                "low": 398.09,
+                "close": 405.98,
+                "volume": 77473,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T10:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 400.7,
+                "high": 407.82,
+                "low": 400.39,
+                "close": 401.53,
+                "volume": 265863,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T09:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 392.56,
+                "high": 403.22,
+                "low": 390.92,
+                "close": 400.28,
+                "volume": 256012,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T15:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 384.88,
+                "high": 389.99,
+                "low": 382.57,
+                "close": 389.99,
+                "volume": 81098,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T14:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 386.93,
+                "high": 387.82,
+                "low": 383.3,
+                "close": 384.85,
+                "volume": 32253,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T13:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 382.5,
+                "high": 387.82,
+                "low": 382.03,
+                "close": 386.92,
+                "volume": 56947,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T12:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 382.78,
+                "high": 384.89,
+                "low": 380.78,
+                "close": 382.53,
+                "volume": 45209,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T11:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 383.77,
+                "high": 384.49,
+                "low": 378.03,
+                "close": 382.77,
+                "volume": 119740,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T10:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 398.24,
+                "high": 398.98,
+                "low": 381.01,
+                "close": 383.67,
+                "volume": 162789,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T09:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 397.9,
+                "high": 404.75,
+                "low": 393.81,
+                "close": 398.12,
+                "volume": 213387,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T15:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 378.85,
+                "high": 389.48,
+                "low": 378.25,
+                "close": 389.34,
+                "volume": 256134,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T14:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 376.81,
+                "high": 379.38,
+                "low": 375.72,
+                "close": 378.86,
+                "volume": 67624,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T13:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 374.9,
+                "high": 377.34,
+                "low": 374.83,
+                "close": 376.82,
+                "volume": 92268,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T12:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 374.86,
+                "high": 375.13,
+                "low": 373.14,
+                "close": 374.84,
+                "volume": 41142,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T11:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 373.96,
+                "high": 376.61,
+                "low": 373.83,
+                "close": 374.88,
+                "volume": 76929,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T10:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 373.81,
+                "high": 375.28,
+                "low": 370.89,
+                "close": 373.95,
+                "volume": 57569,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T09:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 377.32,
+                "high": 377.47,
+                "low": 371.84,
+                "close": 374.01,
+                "volume": 90083,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T15:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 372.1,
+                "high": 372.63,
+                "low": 369.01,
+                "close": 369.4,
+                "volume": 98423,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T14:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 369.19,
+                "high": 372.38,
+                "low": 366.57,
+                "close": 372.11,
+                "volume": 71491,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T13:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 372.58,
+                "high": 373.3,
+                "low": 368.29,
+                "close": 369.26,
+                "volume": 62670,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T12:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 369.82,
+                "high": 372.8,
+                "low": 369.29,
+                "close": 372.51,
+                "volume": 51032,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T11:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 368.35,
+                "high": 371.9,
+                "low": 368.02,
+                "close": 369.7,
+                "volume": 126270,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T10:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 372.57,
+                "high": 375.42,
+                "low": 368.11,
+                "close": 368.37,
+                "volume": 320069,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T09:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 359.88,
+                "high": 374.33,
+                "low": 359.64,
+                "close": 372.44,
+                "volume": 261955,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T15:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 353.72,
+                "high": 358.1,
+                "low": 352.85,
+                "close": 357.74,
+                "volume": 120475,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T14:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 352.83,
+                "high": 354.18,
+                "low": 352.52,
+                "close": 353.72,
+                "volume": 41068,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T13:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 352.05,
+                "high": 353.19,
+                "low": 351.07,
+                "close": 352.92,
+                "volume": 29089,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T12:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 352.05,
+                "high": 352.45,
+                "low": 350.61,
+                "close": 352.06,
+                "volume": 26569,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T11:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 353.37,
+                "high": 354.8,
+                "low": 351.43,
+                "close": 352.09,
+                "volume": 44136,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T10:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 351.21,
+                "high": 354.42,
+                "low": 349.72,
+                "close": 353.32,
+                "volume": 72869,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T09:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 353.08,
+                "high": 353.3,
+                "low": 348.61,
+                "close": 350.87,
+                "volume": 65852,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T15:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 349.85,
+                "high": 351.6,
+                "low": 348.22,
+                "close": 351.39,
+                "volume": 115323,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T14:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 349.66,
+                "high": 350.24,
+                "low": 348.65,
+                "close": 349.79,
+                "volume": 48031,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T13:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 350.24,
+                "high": 351.06,
+                "low": 348.42,
+                "close": 349.81,
+                "volume": 41029,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T12:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 350.89,
+                "high": 351.55,
+                "low": 348.8,
+                "close": 350.27,
+                "volume": 82851,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T11:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 349.69,
+                "high": 352.61,
+                "low": 349.69,
+                "close": 350.87,
+                "volume": 65084,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T10:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 352.35,
+                "high": 354.56,
+                "low": 348.21,
+                "close": 349.75,
+                "volume": 96632,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T09:00:00.000Z",
+            "ticker": "TSLA",
+            "data": {
+                "open": 351.62,
+                "high": 355.65,
+                "low": 349.52,
+                "close": 352.37,
+                "volume": 76532,
+                "is_extended_hours": false
+            }
+        }
+    ]
+}

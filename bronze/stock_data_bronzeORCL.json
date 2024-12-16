@@ -1,0 +1,765 @@
+{
+    "meta": {
+        "date_from": "2024-12-03",
+        "date_to": "2024-12-16",
+        "max_period_days": 180
+    },
+    "data": [
+        {
+            "date": "2024-12-13T15:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 172.64,
+                "high": 173.37,
+                "low": 172.43,
+                "close": 173.36,
+                "volume": 58300,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T14:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 172.3,
+                "high": 172.72,
+                "low": 172.14,
+                "close": 172.66,
+                "volume": 22168,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T13:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 172,
+                "high": 172.59,
+                "low": 171.99,
+                "close": 172.3,
+                "volume": 20312,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T12:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 172.11,
+                "high": 172.61,
+                "low": 171.65,
+                "close": 172.01,
+                "volume": 20189,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T11:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 172.43,
+                "high": 172.75,
+                "low": 171.89,
+                "close": 172.15,
+                "volume": 24102,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T10:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 173.95,
+                "high": 174.22,
+                "low": 172.11,
+                "close": 172.43,
+                "volume": 57352,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T09:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 175.29,
+                "high": 175.98,
+                "low": 173.65,
+                "close": 173.93,
+                "volume": 28297,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T15:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 175.22,
+                "high": 175.69,
+                "low": 174.98,
+                "close": 175.28,
+                "volume": 71471,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T14:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 175.5,
+                "high": 175.5,
+                "low": 174.88,
+                "close": 175.27,
+                "volume": 43308,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T13:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 176.42,
+                "high": 176.42,
+                "low": 175.28,
+                "close": 175.5,
+                "volume": 40325,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T12:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 177.02,
+                "high": 177.14,
+                "low": 176.01,
+                "close": 176.44,
+                "volume": 60146,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T11:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 176.53,
+                "high": 177.56,
+                "low": 176.42,
+                "close": 176.98,
+                "volume": 28360,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T10:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 176.38,
+                "high": 176.46,
+                "low": 175.53,
+                "close": 176.45,
+                "volume": 56409,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T09:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 177.6,
+                "high": 177.8,
+                "low": 174.87,
+                "close": 176.43,
+                "volume": 29377,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T15:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 178.62,
+                "high": 179.01,
+                "low": 178.5,
+                "close": 178.59,
+                "volume": 103303,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T14:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 179.75,
+                "high": 179.75,
+                "low": 178.27,
+                "close": 178.62,
+                "volume": 44928,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T13:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 180.18,
+                "high": 180.78,
+                "low": 179.1,
+                "close": 179.77,
+                "volume": 32149,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T12:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 180.64,
+                "high": 180.95,
+                "low": 179.9,
+                "close": 180.2,
+                "volume": 25136,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T11:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 178.95,
+                "high": 181.38,
+                "low": 178.93,
+                "close": 180.67,
+                "volume": 95765,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T10:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 176.61,
+                "high": 179.59,
+                "low": 176.02,
+                "close": 178.9,
+                "volume": 89373,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T09:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 177.76,
+                "high": 178.45,
+                "low": 174.91,
+                "close": 176.6,
+                "volume": 67387,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T15:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 175.71,
+                "high": 177.79,
+                "low": 174.88,
+                "close": 177.71,
+                "volume": 119823,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T14:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 175.97,
+                "high": 176.26,
+                "low": 175,
+                "close": 175.69,
+                "volume": 53463,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T13:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 174.75,
+                "high": 176.09,
+                "low": 174.73,
+                "close": 175.96,
+                "volume": 31402,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T12:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 175.75,
+                "high": 175.94,
+                "low": 174.47,
+                "close": 174.76,
+                "volume": 92146,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T11:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 175.82,
+                "high": 177.47,
+                "low": 175.7,
+                "close": 175.71,
+                "volume": 67900,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T10:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 174.26,
+                "high": 177.68,
+                "low": 173.96,
+                "close": 175.75,
+                "volume": 158404,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T09:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 172.76,
+                "high": 176.16,
+                "low": 171.06,
+                "close": 174.31,
+                "volume": 194598,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T15:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 189.65,
+                "high": 190.97,
+                "low": 188.95,
+                "close": 190.64,
+                "volume": 185282,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T14:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 190.1,
+                "high": 190.25,
+                "low": 189.08,
+                "close": 189.65,
+                "volume": 40443,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T13:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 189.64,
+                "high": 190.53,
+                "low": 189.36,
+                "close": 190.1,
+                "volume": 51714,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T12:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 190.53,
+                "high": 190.71,
+                "low": 189.25,
+                "close": 189.65,
+                "volume": 54979,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T11:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 190.62,
+                "high": 191.32,
+                "low": 189.92,
+                "close": 190.54,
+                "volume": 45916,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T10:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 192.54,
+                "high": 193.15,
+                "low": 190.57,
+                "close": 190.57,
+                "volume": 71150,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T09:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 195.56,
+                "high": 198.22,
+                "low": 192.49,
+                "close": 192.53,
+                "volume": 81377,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T15:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 192.04,
+                "high": 192.33,
+                "low": 191.45,
+                "close": 191.67,
+                "volume": 95470,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T14:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 192.18,
+                "high": 192.54,
+                "low": 191.35,
+                "close": 192,
+                "volume": 39831,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T13:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 191.44,
+                "high": 192.63,
+                "low": 191.31,
+                "close": 192.15,
+                "volume": 62170,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T12:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 191.29,
+                "high": 191.76,
+                "low": 190.63,
+                "close": 191.45,
+                "volume": 32146,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T11:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 192.19,
+                "high": 192.36,
+                "low": 190.94,
+                "close": 191.38,
+                "volume": 51940,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T10:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 189.67,
+                "high": 192.3,
+                "low": 188.72,
+                "close": 192.19,
+                "volume": 111891,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T09:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 186.73,
+                "high": 190.61,
+                "low": 186.44,
+                "close": 189.54,
+                "volume": 36273,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T15:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 186.21,
+                "high": 186.52,
+                "low": 185.87,
+                "close": 186.25,
+                "volume": 52502,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T14:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 186.2,
+                "high": 186.64,
+                "low": 186.15,
+                "close": 186.25,
+                "volume": 23053,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T13:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 187.31,
+                "high": 187.35,
+                "low": 186.18,
+                "close": 186.21,
+                "volume": 20668,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T12:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 187.4,
+                "high": 188.22,
+                "low": 187,
+                "close": 187.31,
+                "volume": 21077,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T11:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 186.98,
+                "high": 187.54,
+                "low": 186.63,
+                "close": 187.41,
+                "volume": 38789,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T10:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 187.38,
+                "high": 188.51,
+                "low": 186.94,
+                "close": 186.97,
+                "volume": 32501,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T09:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 188.84,
+                "high": 188.93,
+                "low": 187.26,
+                "close": 187.31,
+                "volume": 25238,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T15:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 188.49,
+                "high": 188.81,
+                "low": 188.1,
+                "close": 188.15,
+                "volume": 50461,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T14:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 188.4,
+                "high": 188.78,
+                "low": 188.14,
+                "close": 188.48,
+                "volume": 26334,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T13:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 189,
+                "high": 189.75,
+                "low": 188.46,
+                "close": 188.49,
+                "volume": 30510,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T12:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 188.77,
+                "high": 189.71,
+                "low": 188.72,
+                "close": 188.98,
+                "volume": 42388,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T11:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 188.14,
+                "high": 189.17,
+                "low": 188.07,
+                "close": 188.74,
+                "volume": 38499,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T10:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 188.61,
+                "high": 188.76,
+                "low": 187.26,
+                "close": 188.01,
+                "volume": 54725,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T09:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 187.66,
+                "high": 189.35,
+                "low": 185.99,
+                "close": 188.6,
+                "volume": 36560,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T15:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 181.88,
+                "high": 183.04,
+                "low": 181.83,
+                "close": 182.87,
+                "volume": 78328,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T14:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 181.99,
+                "high": 182.4,
+                "low": 181.67,
+                "close": 181.88,
+                "volume": 63974,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T13:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 181.88,
+                "high": 182.2,
+                "low": 181.59,
+                "close": 181.99,
+                "volume": 21217,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T12:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 181.28,
+                "high": 182.26,
+                "low": 181.23,
+                "close": 181.86,
+                "volume": 17262,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T11:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 181.57,
+                "high": 182.03,
+                "low": 180.93,
+                "close": 181.29,
+                "volume": 29709,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T10:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 181.33,
+                "high": 182.21,
+                "low": 181,
+                "close": 181.64,
+                "volume": 64462,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T09:00:00.000Z",
+            "ticker": "ORCL",
+            "data": {
+                "open": 180.33,
+                "high": 181.76,
+                "low": 179.28,
+                "close": 181.41,
+                "volume": 29215,
+                "is_extended_hours": false
+            }
+        }
+    ]
+}

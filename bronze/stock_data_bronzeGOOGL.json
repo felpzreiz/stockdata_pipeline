@@ -1,0 +1,813 @@
+{
+    "meta": {
+        "date_from": "2024-12-03",
+        "date_to": "2024-12-16",
+        "max_period_days": 180
+    },
+    "data": [
+        {
+            "date": "2024-12-13T16:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 189.78,
+                "high": 189.78,
+                "low": 189.78,
+                "close": 189.78,
+                "volume": 200,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T15:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 191.04,
+                "high": 191.14,
+                "low": 189.64,
+                "close": 189.79,
+                "volume": 118494,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T14:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 191.46,
+                "high": 191.67,
+                "low": 190.93,
+                "close": 191.04,
+                "volume": 41632,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T13:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 191.01,
+                "high": 191.47,
+                "low": 190.8,
+                "close": 191.47,
+                "volume": 66660,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T12:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 191.09,
+                "high": 191.72,
+                "low": 190.93,
+                "close": 191,
+                "volume": 56193,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T11:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 190.76,
+                "high": 191.5,
+                "low": 190.12,
+                "close": 191.14,
+                "volume": 101056,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T10:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 191.96,
+                "high": 191.99,
+                "low": 190.65,
+                "close": 190.75,
+                "volume": 81851,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T09:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 191.01,
+                "high": 192.72,
+                "low": 190.92,
+                "close": 191.82,
+                "volume": 102605,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T15:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 193.44,
+                "high": 193.8,
+                "low": 191.74,
+                "close": 191.93,
+                "volume": 233115,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T14:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 194.33,
+                "high": 194.5,
+                "low": 193.07,
+                "close": 193.44,
+                "volume": 90197,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T13:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 194.7,
+                "high": 194.75,
+                "low": 193.79,
+                "close": 194.31,
+                "volume": 97226,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T12:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 194.23,
+                "high": 195.1,
+                "low": 194.16,
+                "close": 194.72,
+                "volume": 141961,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T11:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 193.74,
+                "high": 195.01,
+                "low": 193.57,
+                "close": 194.25,
+                "volume": 181108,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T10:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 194.14,
+                "high": 194.94,
+                "low": 192.47,
+                "close": 193.74,
+                "volume": 236783,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T09:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 195.13,
+                "high": 195.17,
+                "low": 193.36,
+                "close": 194.18,
+                "volume": 177759,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T16:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 195.46,
+                "high": 195.46,
+                "low": 195.4,
+                "close": 195.46,
+                "volume": 301,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T15:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 193.06,
+                "high": 195.58,
+                "low": 193.02,
+                "close": 195.42,
+                "volume": 366867,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T14:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 193.5,
+                "high": 193.84,
+                "low": 192.43,
+                "close": 193.04,
+                "volume": 145296,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T13:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 194.87,
+                "high": 194.91,
+                "low": 193.25,
+                "close": 193.5,
+                "volume": 149174,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T12:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 192.66,
+                "high": 195.43,
+                "low": 192.59,
+                "close": 194.95,
+                "volume": 183395,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T11:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 193.13,
+                "high": 193.13,
+                "low": 191.13,
+                "close": 192.64,
+                "volume": 200222,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T10:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 193.02,
+                "high": 193.69,
+                "low": 191.6,
+                "close": 193.14,
+                "volume": 440802,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T09:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 185.31,
+                "high": 193,
+                "low": 184.91,
+                "close": 192.94,
+                "volume": 316458,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T16:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 185.2,
+                "high": 185.25,
+                "low": 185.17,
+                "close": 185.2,
+                "volume": 2175,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T15:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 184.33,
+                "high": 185.4,
+                "low": 183.8,
+                "close": 185.23,
+                "volume": 461922,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T14:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 184.55,
+                "high": 185.01,
+                "low": 183.69,
+                "close": 184.33,
+                "volume": 146329,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T13:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 183.58,
+                "high": 184.86,
+                "low": 183.54,
+                "close": 184.52,
+                "volume": 117321,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T12:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 183.16,
+                "high": 184.08,
+                "low": 182.92,
+                "close": 183.56,
+                "volume": 128816,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T11:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 182.02,
+                "high": 183.22,
+                "low": 181.13,
+                "close": 183.16,
+                "volume": 189126,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T10:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 184.16,
+                "high": 185.45,
+                "low": 181.89,
+                "close": 182.02,
+                "volume": 349704,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T09:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 182.82,
+                "high": 186.35,
+                "low": 181.65,
+                "close": 184.08,
+                "volume": 411883,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T15:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 175.26,
+                "high": 175.57,
+                "low": 174.95,
+                "close": 175.43,
+                "volume": 221032,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T14:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 175.79,
+                "high": 175.84,
+                "low": 174.88,
+                "close": 175.26,
+                "volume": 49588,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T13:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 175.97,
+                "high": 176.16,
+                "low": 175.68,
+                "close": 175.81,
+                "volume": 37635,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T12:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 175.82,
+                "high": 176.27,
+                "low": 175.67,
+                "close": 176.08,
+                "volume": 53444,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T11:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 174.33,
+                "high": 176.06,
+                "low": 174.2,
+                "close": 175.88,
+                "volume": 82164,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T10:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 174.73,
+                "high": 175.02,
+                "low": 173.97,
+                "close": 174.32,
+                "volume": 139273,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T09:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 173.96,
+                "high": 175.36,
+                "low": 173.65,
+                "close": 174.75,
+                "volume": 107096,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T15:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 174.49,
+                "high": 174.88,
+                "low": 174.32,
+                "close": 174.66,
+                "volume": 125311,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T14:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 174.76,
+                "high": 174.85,
+                "low": 174.27,
+                "close": 174.51,
+                "volume": 40206,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T13:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 174.55,
+                "high": 175.03,
+                "low": 174.51,
+                "close": 174.76,
+                "volume": 60072,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T12:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 174.71,
+                "high": 174.79,
+                "low": 174.3,
+                "close": 174.61,
+                "volume": 55051,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T11:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 174.17,
+                "high": 175.07,
+                "low": 174.08,
+                "close": 174.72,
+                "volume": 62024,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T10:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 173.67,
+                "high": 174.66,
+                "low": 173.65,
+                "close": 174.1,
+                "volume": 84534,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T09:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 172.17,
+                "high": 174.13,
+                "low": 171.9,
+                "close": 173.8,
+                "volume": 117080,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T15:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 173.3,
+                "high": 173.4,
+                "low": 172.33,
+                "close": 172.7,
+                "volume": 112887,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T14:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 173.63,
+                "high": 173.7,
+                "low": 173.23,
+                "close": 173.31,
+                "volume": 43466,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T13:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 173.38,
+                "high": 173.83,
+                "low": 173.17,
+                "close": 173.7,
+                "volume": 43644,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T12:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 173.62,
+                "high": 174.07,
+                "low": 173.34,
+                "close": 173.39,
+                "volume": 75353,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T11:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 173.76,
+                "high": 174.13,
+                "low": 173.47,
+                "close": 173.68,
+                "volume": 71304,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T10:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 174.35,
+                "high": 174.85,
+                "low": 173.43,
+                "close": 173.74,
+                "volume": 132094,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T09:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 175.53,
+                "high": 176.01,
+                "low": 173.91,
+                "close": 174.38,
+                "volume": 106450,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T15:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 174.66,
+                "high": 174.9,
+                "low": 174.17,
+                "close": 174.43,
+                "volume": 312275,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T14:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 174.36,
+                "high": 174.69,
+                "low": 174.22,
+                "close": 174.67,
+                "volume": 216999,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T13:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 174.01,
+                "high": 174.61,
+                "low": 173.98,
+                "close": 174.42,
+                "volume": 186655,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T12:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 173.56,
+                "high": 174.05,
+                "low": 172.87,
+                "close": 174,
+                "volume": 199554,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T11:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 174,
+                "high": 174.06,
+                "low": 173.33,
+                "close": 173.57,
+                "volume": 161230,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T10:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 173.06,
+                "high": 174.22,
+                "low": 172.24,
+                "close": 173.98,
+                "volume": 337489,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T09:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 171.17,
+                "high": 173.26,
+                "low": 171.14,
+                "close": 173.08,
+                "volume": 134671,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T16:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 171.27,
+                "high": 171.27,
+                "low": 171.27,
+                "close": 171.27,
+                "volume": 400,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T15:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 171.37,
+                "high": 171.43,
+                "low": 170.85,
+                "close": 171.27,
+                "volume": 247641,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T14:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 171.22,
+                "high": 171.45,
+                "low": 171.13,
+                "close": 171.39,
+                "volume": 91485,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T13:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 171.34,
+                "high": 171.52,
+                "low": 171.06,
+                "close": 171.22,
+                "volume": 121039,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T12:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 171.58,
+                "high": 171.69,
+                "low": 171.09,
+                "close": 171.41,
+                "volume": 129483,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T11:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 171.71,
+                "high": 172.17,
+                "low": 171.58,
+                "close": 171.61,
+                "volume": 138197,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T10:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 171.66,
+                "high": 172.22,
+                "low": 170.92,
+                "close": 171.71,
+                "volume": 291245,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T09:00:00.000Z",
+            "ticker": "GOOGL",
+            "data": {
+                "open": 171.49,
+                "high": 172.61,
+                "low": 171.14,
+                "close": 171.63,
+                "volume": 90476,
+                "is_extended_hours": false
+            }
+        }
+    ]
+}

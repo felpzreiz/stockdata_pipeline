@@ -1,0 +1,801 @@
+{
+    "meta": {
+        "date_from": "2024-12-03",
+        "date_to": "2024-12-16",
+        "max_period_days": 180
+    },
+    "data": [
+        {
+            "date": "2024-12-13T15:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 459.52,
+                "high": 467.12,
+                "low": 457.71,
+                "close": 465.81,
+                "volume": 122699,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T14:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 457.9,
+                "high": 460.03,
+                "low": 456.92,
+                "close": 459.66,
+                "volume": 57272,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T13:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 459.11,
+                "high": 459.11,
+                "low": 457.61,
+                "close": 457.87,
+                "volume": 33142,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T12:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 462.45,
+                "high": 462.51,
+                "low": 458.9,
+                "close": 458.95,
+                "volume": 28589,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T11:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 461.54,
+                "high": 465.11,
+                "low": 460.92,
+                "close": 462.56,
+                "volume": 112067,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T10:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 466.82,
+                "high": 467.23,
+                "low": 460.66,
+                "close": 461.56,
+                "volume": 147856,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-13T09:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 473.84,
+                "high": 474.74,
+                "low": 466.77,
+                "close": 466.77,
+                "volume": 58438,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T15:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 473.87,
+                "high": 479.38,
+                "low": 473.03,
+                "close": 474.56,
+                "volume": 119964,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T14:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 475.83,
+                "high": 476.45,
+                "low": 470.93,
+                "close": 473.95,
+                "volume": 71075,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T13:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 478.6,
+                "high": 478.88,
+                "low": 475.01,
+                "close": 475.82,
+                "volume": 49031,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T12:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 480.23,
+                "high": 482.79,
+                "low": 478.19,
+                "close": 478.6,
+                "volume": 44893,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T11:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 478.22,
+                "high": 483.36,
+                "low": 477.43,
+                "close": 480.24,
+                "volume": 76977,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T10:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 481.75,
+                "high": 483.78,
+                "low": 476.65,
+                "close": 478.2,
+                "volume": 105678,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-12T09:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 486.06,
+                "high": 493.86,
+                "low": 480.88,
+                "close": 481.52,
+                "volume": 137890,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T16:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 549.85,
+                "high": 549.85,
+                "low": 549.85,
+                "close": 549.85,
+                "volume": 100,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T15:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 549.83,
+                "high": 550.76,
+                "low": 548.32,
+                "close": 549.55,
+                "volume": 45115,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T14:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 549.37,
+                "high": 551.14,
+                "low": 549.06,
+                "close": 549.88,
+                "volume": 16335,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T13:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 548.92,
+                "high": 550.26,
+                "low": 548.08,
+                "close": 549.44,
+                "volume": 10449,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T12:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 547.79,
+                "high": 549.21,
+                "low": 547.78,
+                "close": 548.81,
+                "volume": 8803,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T11:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 544.67,
+                "high": 548.59,
+                "low": 544.13,
+                "close": 547.63,
+                "volume": 10821,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T10:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 545.79,
+                "high": 550.3,
+                "low": 541.63,
+                "close": 544.58,
+                "volume": 27270,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-11T09:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 548.37,
+                "high": 551.91,
+                "low": 544.57,
+                "close": 545.79,
+                "volume": 26762,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T16:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 547.22,
+                "high": 547.22,
+                "low": 547.22,
+                "close": 547.22,
+                "volume": 100,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T15:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 547,
+                "high": 547.32,
+                "low": 544.2,
+                "close": 547.01,
+                "volume": 22648,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T14:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 549.89,
+                "high": 549.89,
+                "low": 546.65,
+                "close": 547.2,
+                "volume": 7597,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T13:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 549.5,
+                "high": 550.43,
+                "low": 548.7,
+                "close": 549.94,
+                "volume": 8514,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T12:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 551.01,
+                "high": 551.01,
+                "low": 548.72,
+                "close": 549.57,
+                "volume": 9090,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T11:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 551.76,
+                "high": 551.96,
+                "low": 549.15,
+                "close": 551.03,
+                "volume": 11992,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T10:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 548.2,
+                "high": 552.72,
+                "low": 547.58,
+                "close": 551.64,
+                "volume": 14786,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-10T09:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 547.22,
+                "high": 550.48,
+                "low": 546.06,
+                "close": 547.5,
+                "volume": 6789,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T15:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 546.7,
+                "high": 548.11,
+                "low": 546.34,
+                "close": 547.91,
+                "volume": 35333,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T14:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 547.72,
+                "high": 548.42,
+                "low": 546.25,
+                "close": 546.74,
+                "volume": 23484,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T13:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 549.01,
+                "high": 549.07,
+                "low": 547.09,
+                "close": 547.82,
+                "volume": 16523,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T12:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 550.85,
+                "high": 550.96,
+                "low": 547.43,
+                "close": 549.13,
+                "volume": 19010,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T11:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 552.6,
+                "high": 553.46,
+                "low": 550.52,
+                "close": 550.99,
+                "volume": 18283,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T10:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 552.87,
+                "high": 555.74,
+                "low": 552.52,
+                "close": 552.71,
+                "volume": 24736,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-09T09:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 554.5,
+                "high": 557.49,
+                "low": 552.74,
+                "close": 552.77,
+                "volume": 22386,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T15:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 551.69,
+                "high": 553.35,
+                "low": 551.34,
+                "close": 552.77,
+                "volume": 20890,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T14:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 551.51,
+                "high": 552.25,
+                "low": 550.44,
+                "close": 551.68,
+                "volume": 5877,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T13:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 551.53,
+                "high": 552.55,
+                "low": 551.04,
+                "close": 551.32,
+                "volume": 8096,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T12:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 553,
+                "high": 553.9,
+                "low": 550.79,
+                "close": 551.32,
+                "volume": 8840,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T11:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 550.71,
+                "high": 554.34,
+                "low": 550.48,
+                "close": 553.21,
+                "volume": 13350,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T10:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 549.53,
+                "high": 553.76,
+                "low": 549.06,
+                "close": 550.72,
+                "volume": 23513,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-06T09:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 544.15,
+                "high": 550.59,
+                "low": 543,
+                "close": 549.48,
+                "volume": 20127,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T15:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 536.09,
+                "high": 538.34,
+                "low": 535.02,
+                "close": 538.28,
+                "volume": 29813,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T14:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 538.46,
+                "high": 538.79,
+                "low": 535.81,
+                "close": 536.14,
+                "volume": 10846,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T13:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 539.68,
+                "high": 539.7,
+                "low": 536.78,
+                "close": 538.45,
+                "volume": 9673,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T12:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 537.22,
+                "high": 540.12,
+                "low": 537.15,
+                "close": 539.71,
+                "volume": 10747,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T11:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 535.65,
+                "high": 538.25,
+                "low": 535.2,
+                "close": 537.33,
+                "volume": 9155,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T10:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 534.82,
+                "high": 537.57,
+                "low": 533.99,
+                "close": 535.74,
+                "volume": 18772,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-05T09:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 535.55,
+                "high": 535.55,
+                "low": 530.2,
+                "close": 534.43,
+                "volume": 13230,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T15:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 535.8,
+                "high": 536.96,
+                "low": 535,
+                "close": 536.45,
+                "volume": 35800,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T14:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 535.85,
+                "high": 537.19,
+                "low": 535.15,
+                "close": 535.86,
+                "volume": 16495,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T13:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 536.27,
+                "high": 536.86,
+                "low": 533.83,
+                "close": 535.88,
+                "volume": 8042,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T12:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 537.89,
+                "high": 538.23,
+                "low": 535.66,
+                "close": 536.27,
+                "volume": 11654,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T11:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 541.58,
+                "high": 541.65,
+                "low": 536.39,
+                "close": 537.82,
+                "volume": 16887,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T10:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 536.59,
+                "high": 541.77,
+                "low": 534.36,
+                "close": 541.51,
+                "volume": 30781,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-04T09:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 524.39,
+                "high": 540.24,
+                "low": 521.87,
+                "close": 536.89,
+                "volume": 24857,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T16:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 516.05,
+                "high": 516.05,
+                "low": 516.05,
+                "close": 516.05,
+                "volume": 38,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T15:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 515.52,
+                "high": 516.76,
+                "low": 515.47,
+                "close": 516.19,
+                "volume": 24115,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T14:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 514.33,
+                "high": 516.67,
+                "low": 513.95,
+                "close": 515.59,
+                "volume": 13971,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T13:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 513.65,
+                "high": 515.62,
+                "low": 513.53,
+                "close": 514.49,
+                "volume": 6954,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T12:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 509.92,
+                "high": 513.53,
+                "low": 509.92,
+                "close": 513.45,
+                "volume": 10925,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T11:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 511.14,
+                "high": 512.82,
+                "low": 509.94,
+                "close": 509.94,
+                "volume": 11149,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T10:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 508.12,
+                "high": 511.36,
+                "low": 507.7,
+                "close": 511.25,
+                "volume": 21402,
+                "is_extended_hours": false
+            }
+        },
+        {
+            "date": "2024-12-03T09:00:00.000Z",
+            "ticker": "ADBE",
+            "data": {
+                "open": 513.99,
+                "high": 513.99,
+                "low": 504.8,
+                "close": 508.12,
+                "volume": 10912,
+                "is_extended_hours": false
+            }
+        }
+    ]
+}
